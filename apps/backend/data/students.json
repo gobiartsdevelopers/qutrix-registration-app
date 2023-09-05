@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nishanth",
+    "rollNumber": "2104025",
+    "email": "nishanth@gmail.com",
+    "mobile": "9876543211",
+    "college": "gobi arts",
+    "department": "mca",
+    "event": "quiz"
+  },
+  {
+    "name": "Mohan",
+    "rollNumber": "2104026",
+    "email": "mohan@gmail.com",
+    "mobile": "9876543212",
+    "college": "gobi arts",
+    "department": "it",
+    "event": "quiz"
+  }
+]
