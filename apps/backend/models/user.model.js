@@ -62,7 +62,7 @@ const userSchema = new mongoose.Schema(
           "b.sc ct",
           "b.sc iot",
           "mca",
-          "m.sc it",
+          "m.sc cs",
           "m.sc ct",
           "m.sc it",
         ],
